@@ -1,0 +1,16 @@
+2022-05-06 23:34:24,407 : dir: /home/kw371869/zaliczeniowe/kw371869
+2022-05-06 23:34:28,781 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen1.txt res-gen1.txt
+2022-05-06 23:34:29,346 : subprocess finished
+2022-05-06 23:34:29,349 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen2.txt res-gen2.txt
+2022-05-06 23:34:29,828 : subprocess finished
+2022-05-06 23:34:29,831 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen3.txt res-gen3.txt
+2022-05-06 23:34:30,233 : subprocess finished
+2022-05-06 23:34:30,236 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen4.txt res-gen4.txt
+2022-05-06 23:34:30,658 : subprocess finished
+2022-05-06 23:34:30,661 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen5.txt res-gen5.txt
+2022-05-06 23:34:31,106 : subprocess finished
+2022-05-06 23:34:31,109 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen6.txt res-gen6.txt
+2022-05-06 23:34:31,570 : subprocess finished
+2022-05-06 23:34:31,573 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen7.txt res-gen7.txt
+2022-05-06 23:34:32,042 : subprocess finished
+2022-05-06 23:34:32,045 : subdir /home/kw371869/zaliczeniowe/kw371869 errors 0

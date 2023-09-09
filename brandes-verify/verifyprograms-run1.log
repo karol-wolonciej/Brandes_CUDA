@@ -1,0 +1,3 @@
+2022-05-06 22:11:29,528 : dir: /home/kw371869/zaliczeniowe/kw371869
+2022-05-06 22:11:34,058 : dir: /home/kw371869/zaliczeniowe/kw371869 params: ./brandes ../tests/gen1.txt res-gen1.txt
+2022-05-06 22:11:34,645 : subprocess finished

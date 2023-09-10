@@ -2,7 +2,7 @@
 
 [Betweenes Centrality artykuł](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.301.6142&rep=rep1&type=pdf)
 
-Implementation of Betweenes Centrality algorithm using Vertex-based parallelism with multiple optimalization:
+Implementation of Betweenes Centrality algorithm using vertex-based parallelism with multiple optimalizations:
 
 Optymalizations:
 
